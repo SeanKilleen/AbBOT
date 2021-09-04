@@ -1,5 +1,9 @@
 # Frequently Asked Questions
 
+## I'd like to help but I'm not technically savvy or don't want to spend time to install all the components. What do I do?
+
+We recommend checking out the `docker-compose` option in the `Readme` file. Once you install Docker, you can run a few straight-forward commands and be up and running.
+
 ## Common issues
 
 1. I'm getting `Form failed to submit.`, what do I do?
